@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+### Dónde me quedé:
+
+En git estoy en la rama 'boton-task'
+
+En el video acabo de crear el componente 'button'
+
+### Link del video:
+https://drive.google.com/file/d/1AKGsBwA7lYQqxMZD5ETILMvbrSiwG-iB/view?usp=share_link
+https://drive.google.com/drive/folders/1SNFghIlYnRCldrTeEt4ST1sHt6Fs0mja
