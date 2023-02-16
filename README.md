@@ -29,10 +29,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Dónde me quedé:
 
-En git estoy en la rama 'boton-task'
+En git estoy en la rama 'task-list'
 
-En el video acabo de crear el componente 'button'
+En el video acabo de crear el componente 'tasks'
 
 ### Link del video:
 https://drive.google.com/file/d/1AKGsBwA7lYQqxMZD5ETILMvbrSiwG-iB/view?usp=share_link
+Tiempo: 31:30
+
 https://drive.google.com/drive/folders/1SNFghIlYnRCldrTeEt4ST1sHt6Fs0mja
