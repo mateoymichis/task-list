@@ -29,12 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Dónde me quedé:
 
-En git estoy en la rama 'task-list'
-
-En el video acabo de crear el componente 'tasks'
+En rama server-task
+Json server instalado y funcionando
 
 ### Link del video:
 https://drive.google.com/file/d/1AKGsBwA7lYQqxMZD5ETILMvbrSiwG-iB/view?usp=share_link
-Tiempo: 31:30
+Tiempo: 1:09:20
 
 https://drive.google.com/drive/folders/1SNFghIlYnRCldrTeEt4ST1sHt6Fs0mja
