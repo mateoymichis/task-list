@@ -27,14 +27,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-### Dónde me quedé:
-
-En rama master
-DELETE y TaskReminder funcionando
-Add task funcionando
-
 ### Link del video:
 https://drive.google.com/file/d/1AKGsBwA7lYQqxMZD5ETILMvbrSiwG-iB/view?usp=share_link
-Tiempo: 1:56:20
 
+### Archivos de AP - Yo Programo:
 https://drive.google.com/drive/folders/1SNFghIlYnRCldrTeEt4ST1sHt6Fs0mja
+
+### TO DO:
+
+- Edit task
+- Backend
+- Borrar formulario al crear task
+- Valores date/time en el formulario

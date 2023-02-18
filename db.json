@@ -1,33 +1,33 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar la task list",
+      "text": "Nueva tarea",
       "day": "Mañana",
-      "reminder": true
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "Examen de inglés",
-      "day": "Mañana",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Trabajar",
+      "text": "Comer",
       "day": "Hoy",
-      "reminder": true
+      "reminder": false,
+      "id": 2
     },
     {
-      "id": 4,
-      "text": "Aprender QA",
-      "day": "Lunes",
-      "reminder": false
+      "text": "Examen de inglés",
+      "day": "Viernes 8:00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Aprender React.js",
+      "day": "Sábado",
+      "reminder": true,
+      "id": 4
     },
     {
       "text": "Nueva tarea",
-      "day": "Lunes",
-      "reminder": true,
+      "day": "Hoy",
+      "reminder": false,
       "id": 5
     }
   ]
